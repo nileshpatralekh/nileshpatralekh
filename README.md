@@ -26,4 +26,4 @@ Hi, I'm Nilesh Kumar Patralekh 👋. I am a M.Sc. Physics Student at the **India
 
 ---
 
-⭐️ *Feel free to explore my repositories, open issues, or collaborate on research projects.*  
+ *Contact me through any of the given links above.*  
