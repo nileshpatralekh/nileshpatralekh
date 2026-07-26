@@ -1,5 +1,5 @@
 # Nilesh Kumar Patralekh
-Hi, I'm Nilesh Kumar Patralekh 👋. I am a M.Sc. Physics Student at the **Indian Institute of Technology Delhi**, specializing in **Quantum Condensed Matter Physics**. I am interested in **Physics**, **Flute-Music**, **Chess**, **Sudoku**.
+Hi, I'm Nilesh Kumar Patralekh 👋. I am a M.Sc. Physics Student at the **Indian Institute of Technology Delhi**, specializing in **Quantum Condensed Matter Physics**. I am interested in **Physics**, **Flute-Music**, **Chess**, **Sudoku**. Contact me on any of the given options below
 ---
 
 
