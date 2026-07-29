@@ -13,7 +13,7 @@ Hi, I'm Nilesh Kumar Patralekh 👋. I am a M.Sc. Physics Student at the **India
 
 ## ⚙️ Skills & Tools
 - **Programming Languages:** Python (NumPy, SciPy, Matplotlib)
-- **Other Tools:**  LaTeX, MS Excel  
+- **Other Tools:**  LaTeX 
 - **Operating Systems:** Linux, Mac
   
 ---
