@@ -7,7 +7,7 @@ Hi, I'm Nilesh Kumar Patralekh 👋. I am a M.Sc. Physics Student at the **India
 ## 🧑‍🔬 Interests
 - Quantum Condensed Matter Physics  
 - Superconductivity   
-
+- Strongly correlated systems
 ---
 
 
